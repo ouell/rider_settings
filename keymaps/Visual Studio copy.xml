@@ -1,0 +1,36 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="RiderCollapseToDefinitions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="one.util.ideaplugin.screenshoter.CopyImageAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+</keymap>
