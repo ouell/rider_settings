@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Magalu.Adm.Domain\Dominio\Base\Entidade.cs'" />
-    <option name="defaultScopeName" value="File '...\Magalu.Adm.Domain\Dominio\Base\Entidade.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Magalu.Adm.Domain\Dominio\Base\Entidade.cs'" />
+    <option name="customScope" value="Selection" />
+    <option name="defaultScopeName" value="Selection" />
+    <option name="SEARCH_SCOPE" value="Selection" />
   </component>
 </application>
