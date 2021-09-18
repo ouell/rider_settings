@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '…\LuizaLabs.Adm.Api\appsettings.Development.json'" />
+    <option name="defaultScopeName" value="File '…\LuizaLabs.Adm.Api\appsettings.Development.json'" />
+    <option name="SEARCH_SCOPE" value="File '…\LuizaLabs.Adm.Api\appsettings.Development.json'" />
   </component>
 </application>
