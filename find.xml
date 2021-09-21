@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Template.Dominio\Base\ModelBase.cs'" />
-    <option name="defaultScopeName" value="File '...\Template.Dominio\Base\ModelBase.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Template.Dominio\Base\ModelBase.cs'" />
+    <option name="customScope" value="File '…\LuizaLabs.Adm.Api\appsettings.Development.json'" />
+    <option name="defaultScopeName" value="File '…\LuizaLabs.Adm.Api\appsettings.Development.json'" />
+    <option name="SEARCH_SCOPE" value="File '…\LuizaLabs.Adm.Api\appsettings.Development.json'" />
   </component>
 </application>
