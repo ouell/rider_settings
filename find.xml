@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Selected text" />
-    <option name="defaultScopeName" value="Selected text" />
-    <option name="SEARCH_SCOPE" value="Selected text" />
+    <option name="customScope" value="Current File" />
+    <option name="defaultScopeName" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Current File" />
   </component>
 </application>
